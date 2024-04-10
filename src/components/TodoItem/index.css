@@ -1,0 +1,22 @@
+.todo-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+.delete-button {
+  color: #ff0b37;
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+  border: 1px solid #ff0b37;
+  font-family: roboto;
+  border-radius: 7px;
+}
+.todo-title {
+  color: #000000;
+  font-size: 30px;
+  font-family: roboto;
+}
